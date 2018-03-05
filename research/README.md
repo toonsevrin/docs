@@ -1,0 +1,14 @@
+# Circles: Research Documentation
+
+Research on circles used to be scattered all over the place: The chatroom, private messages, Google Drive... Getting a grasp over the current state of research was thus extremely difficult for newcomers.
+
+Unifying this information is therefor the primary goal of this repo. This research repository is the primary place to look for any circles related research.
+
+## Categories
+The research on circles has been divided in the following categories \[these categories are not final and will be discussed\]:
+* __Value:__ Bootstrapping the value of the currency and maintaining this value
+* __Governance:__ Governance protocols for the updating of the smart contract
+* __Resilience:__ The network should be stable, even in the face of shocks
+  * __Inflation:__ Hyperinflation should be prevented
+  * __Sibling attacks:__ These should not be possible at a large scale
+* __Usability:__ The system should be easy to use
