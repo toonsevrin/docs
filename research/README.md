@@ -2,7 +2,7 @@
 
 Research on circles used to be scattered all over the place: The chatroom, private messages, Google Drive... Getting a grasp over the current state of research was thus extremely difficult for newcomers.
 
-Unifying this information is therefor the primary goal of this repo. This repository aims to be the primary location for any circles related research.
+Unifying this information is therefor the main goal of this repo, making it the primary location for any circles related research.
 
 ## Categories
 The research on circles has been divided in the following categories \[these categories are not final and will be discussed\]:
