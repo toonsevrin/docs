@@ -12,3 +12,6 @@ The research on circles has been divided in the following categories \[these cat
   * __Inflation:__ Hyperinflation should be prevented
   * __Sibling attacks:__ These should not be possible at a large scale
 * __Usability:__ The system should be easy to use
+
+## Bookmarks
+Interesting articles and our summaries/opinions of them are available in the references.md in each directory.
