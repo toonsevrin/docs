@@ -8,7 +8,7 @@ Unifying this information is therefor the main goal of this repo, making it the 
 The research on circles has been divided in the following categories \[these categories are not final and will be discussed\]:
 * __Value:__ Bootstrapping the value of the currency and maintaining this value
 * __Governance:__ Governance protocols for the updating of the smart contract
-* __Resilience:__ The network should be stable, even in the face of shocks
+* __Stability:__ The network should be resilient/stable, even in the face of shocks
   * __Inflation:__ Hyperinflation should be prevented
   * __Sibling attacks:__ These should not be possible at a large scale
 * __Usability:__ The system should be easy to use
