@@ -10,7 +10,7 @@ The research on circles has been divided in the following categories \[these cat
 * __Governance:__ Governance protocols for the updating of the smart contract
 * __Stability:__ The network should be resilient/stable, even in the face of shocks
   * __Inflation:__ Hyperinflation should be prevented
-  * __Sibling attacks:__ These should not be possible at a large scale
+  * __Sybil attacks:__ These should not be possible at a large scale
 * __Usability:__ The system should be easy to use
 
 ## Bookmarks
