@@ -8,6 +8,11 @@ Suppliers can decide to allow a part of the price of a good/service to be paid i
 
 And ultimately, as a part of the price is now substituted by circles. Circles necessarily become valuable.
 
+
+## Expiring inventories
+Producers could accept circles for their near expiry inventory.
+
+
 ## Subsidies / Donations
 Another way to increase the value of circles would be by subsidizing this value. These subsidies could come from individuals, firms or even governments.
 
